@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //FIXME arreglar
         //TODO falta por hacer algo
+        //Mejorando
     }
 }
